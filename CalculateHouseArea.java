@@ -7,7 +7,6 @@ class HouseArea
     { 
         return length * width; 
     } 
-  
     static double Measurements (double length, double width) 
     { 
         return length * width; 
